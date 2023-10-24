@@ -1,0 +1,11 @@
+{
+    "name": "renar/currency-exchange-software",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
